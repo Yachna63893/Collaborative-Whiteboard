@@ -1,0 +1,8 @@
+target/
+data/
+server.log
+server.err.log
+.mvn/
+.idea/
+.vscode/
+*.iml
